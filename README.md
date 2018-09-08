@@ -13,7 +13,6 @@ My suggestion to what the Visual Studio Extensibility (VSIX) templates should lo
 * Reduce time to *Wow!*
 * Reduce concept count
 
-
 ## Features
 
 * 2 Templates
@@ -28,7 +27,16 @@ My suggestion to what the Visual Studio Extensibility (VSIX) templates should lo
 * CSS file rolled into the HTML file
 * Default icon added to demonstrate correct size
 * Verbose code comments removed
-* Removed unneeded `<Dependencies>` section in .vsixmanife
+* Removed unneeded `<Dependencies>` section in .vsixmanifest
+
+## VS modification wishlist
+
+* Built in code generation for .vsixmanifest and .vsct files
+  * Update *Package* and *AssemblyInfo* attributes with values
+* Build support for no .resx files into *BuildTools*
+  * Then remove the *Madskristensen.VSSDK.Resourcer* NuGet package
+* Support Project Overview page 
+  * Then remove the *Index.html* file
 
 ## License
 [Apache 2.0](LICENSE)
