@@ -4,7 +4,7 @@
 
 ---------------------------------------
 
-My suggestion to what the Visual Studio Extensibility (VSIX) templates should look like.
+A suggestion to improve the Visual Studio Extensibility (VSIX) templates. The templates in the repo are samples of what the output of better project templates can look like.
 
 ## Goals
 
