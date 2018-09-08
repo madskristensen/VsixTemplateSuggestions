@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28012.3001
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsixProject", "src\VsixProject\VsixProject.csproj", "{9CE91F4F-1FCF-4571-B573-6E005B438E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyVsixProject", "src\EmptyVsixProject\EmptyVsixProject.csproj", "{F3276211-55A9-4CEF-A3BC-8411A904A7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE91F4F-1FCF-4571-B573-6E005B438E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE91F4F-1FCF-4571-B573-6E005B438E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE91F4F-1FCF-4571-B573-6E005B438E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE91F4F-1FCF-4571-B573-6E005B438E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3276211-55A9-4CEF-A3BC-8411A904A7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3276211-55A9-4CEF-A3BC-8411A904A7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3276211-55A9-4CEF-A3BC-8411A904A7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3276211-55A9-4CEF-A3BC-8411A904A7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B16D1C59-B533-42CD-9F53-211E2877E5EA}
+	EndGlobalSection
+EndGlobal
