@@ -1,6 +1,6 @@
 # VSIX Project Template Suggestions
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ox04djmajibm3qqv?svg=true)](https://ci.appveyor.com/project/madskristensen/imagesprites)
+[![Build status](https://ci.appveyor.com/api/projects/status/q04ebk3mf9btvgxh?svg=true)](https://ci.appveyor.com/project/madskristensen/vsixtemplatesuggestions)
 
 ---------------------------------------
 
@@ -17,8 +17,8 @@ My suggestion to what the Visual Studio Extensibility (VSIX) templates should lo
 ## Features
 
 * 2 Templates
-  * VSIX Project (with AsyncPackage)
-  * Empty VSIX Project
+  * [VSIX Project (with AsyncPackage)](src/VsixProject/)
+  * [Empty VSIX Project](src/EmptyVsixProject/)
 * Uses `<PackageReference>`
 * References meta package with entire VSSDK
 * References Roslyn Analyzers for best practice adherence
